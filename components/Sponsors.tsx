@@ -148,7 +148,7 @@ const Sponsors = () => {
               </a>
             </div>
           </div>
-          <div className="flex flex-wrap justify-center items-center w-full max-md:gap-5">
+          <div className="flex flex-col justify-center items-center w-full max-md:gap-5">
             <h2 className="lg:text-[3rem] md:text-[2.5rem] text-[2rem] font-semibold lg:pl-3 text-white">
               Community Partner
             </h2>
@@ -159,7 +159,7 @@ const Sponsors = () => {
               <a
                 href="https://codewavehub.tech"
                 target="_blank"
-                className="flex items-center bg-white w-[22rem] h-[10rem]"
+                className="flex items-center bg-white h-[10rem]"
               >
                 <img src="cwh.png" alt="" className="w-[22rem]" />
               </a>
