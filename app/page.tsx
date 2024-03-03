@@ -69,9 +69,9 @@ export default function Home() {
         <Sponsors />
       </section>
 
-      {/* <section className="my-10">
+      <section className="my-10">
         <Helloworld />
-      </section> */}
+      </section>
 
       <section className="pt-24 lg:pt-[10rem] flex justify-center">
         <div className="lg:w-[90%] flex flex-col justify-center items-center sm:border border-limee rounded-[65px] py-10 sm:bg-[#1e1e1e]">

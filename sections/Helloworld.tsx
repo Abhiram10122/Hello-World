@@ -6,7 +6,7 @@ import { Button, Link } from "@nextui-org/react";
 const Helloworld = () => {
   return (
     <main className="flex flex-col justify-center items-center">
-      <div className="flex justify-center items-center lg:gap-10 md:gap-7 gap-5 lg:pt-[18rem] lg:pb-[14rem] md:pt-[14rem] md:pb-[9rem] pt-[10rem] pb-[6rem] relative">
+      <div className="flex justify-center items-center lg:gap-10 md:gap-7 gap-5 lg:pt-[18rem] lg:pb-[14rem] md:pt-[14rem] md:pb-[9rem] pt-[10rem] pb-[6rem] relative w-screen overflow-x-hidden">
         <img
           src="/mainlogo.png"
           alt=""
